@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:visible="true"
+        android:id="@+id/search_user"
+        android:title="search"
+
+        android:icon="@drawable/ic_search_black_24dp"
+        app:actionViewClass="android.widget.SearchView"
+        />
+    <item
+
+
+        android:id="@+id/logout"
+        android:title="تسجيل خروج"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        app:showAsAction="always"/>
+
+
+</menu>

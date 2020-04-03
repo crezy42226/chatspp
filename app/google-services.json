@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355038973579",
+    "firebase_url": "https://chatapp-ed0d2.firebaseio.com",
+    "project_id": "chatapp-ed0d2",
+    "storage_bucket": "chatapp-ed0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355038973579:android:57516b730db4e5b111ce8e",
+        "android_client_info": {
+          "package_name": "com.crezy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355038973579-b98498lmjdmtsrs9outg97civblkgri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZJJaOALcPE8uzuu1uX2mgJR_qjmRmDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355038973579-b98498lmjdmtsrs9outg97civblkgri2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
